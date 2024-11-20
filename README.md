@@ -1,2 +1,5 @@
-# analyzecode
-Go package for analyzing code
+# acode
+
+Experimental Go package to help analyze code.
+
+License: Apache 2
