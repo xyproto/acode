@@ -1,0 +1,9 @@
+cmd/projectname/projectname
+cmd/countlines/countlines
+cmd/info/info
+*.o
+*.bak
+*.swp
+*.tmp
+.DS_Store
+include.txt

@@ -1,0 +1,15 @@
+# github.com/xyproto/ask v1.1.0
+## explicit; go 1.17
+github.com/xyproto/ask
+# github.com/xyproto/binary v1.3.3
+## explicit; go 1.18
+github.com/xyproto/binary
+# github.com/xyproto/env/v2 v2.5.2
+## explicit; go 1.19
+github.com/xyproto/env/v2
+# github.com/xyproto/files v1.8.0
+## explicit; go 1.19
+github.com/xyproto/files
+# github.com/xyproto/projectinfo v1.3.6
+## explicit; go 1.22.2
+github.com/xyproto/projectinfo

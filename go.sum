@@ -1,0 +1,10 @@
+github.com/xyproto/ask v1.1.0 h1:8zujfw/8kSm6LAN0aZ2fYa0i52pVyB+8bqXg1eYBrlA=
+github.com/xyproto/ask v1.1.0/go.mod h1:fHOS3OqThzPYaJUNOH4/ZZDJZhu71bzCMUFnBiq8ELI=
+github.com/xyproto/binary v1.3.3 h1:pc33rqTXguiedvsH5nhx4P1Ph7iHb7awqhDscTOTHv4=
+github.com/xyproto/binary v1.3.3/go.mod h1:0bRi3JImoPWOFfM7yPYzNVyLZXYGQTBwdNRPs4m3+qQ=
+github.com/xyproto/env/v2 v2.5.2 h1:y0YomXk91TCIQPo58JUn+hqFBH9LhKws7W3RdhPEarM=
+github.com/xyproto/env/v2 v2.5.2/go.mod h1:F81ZEzu15s3TWUZJ1uzBl9iNeq9zcfHvxMkQJaLZUl0=
+github.com/xyproto/files v1.8.0 h1:gn5neL4Esc1PER7finvJ2nXGEbOF7FkebM6FSWLTHCI=
+github.com/xyproto/files v1.8.0/go.mod h1:johy1UtusLfkGuQ98zGJIHkQ1hWPUre5GHQ0GrUzKnk=
+github.com/xyproto/projectinfo v1.3.6 h1:3xqV6RnOq3+cLWsl2XYx4CkFQHUKNkka3iqbyMEDmu4=
+github.com/xyproto/projectinfo v1.3.6/go.mod h1:Oic43UxNAPtHV4ZX9wNIy8pWMjjOIBQ26xYZEdyRNSc=
