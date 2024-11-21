@@ -1,5 +1,5 @@
 # acode
 
-Experimental Go package to help analyze code.
+Utility functions and structs for analyzing code with LLMs
 
 License: Apache 2
